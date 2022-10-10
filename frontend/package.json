@@ -1,0 +1,19 @@
+{
+  "name": "Lead system",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "axios": "^0.20.0",
+    "cotter": "^0.3.16",
+    "cotter-node": "^0.1.2",
+    "cotter-token-js": "^0.1.5",
+    "next": "9.5.3",
+    "react": "16.13.1",
+    "react-dom": "16.13.1"
+  }
+}
